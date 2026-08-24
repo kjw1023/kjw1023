@@ -1,6 +1,4 @@
-# 안녕하세요!
-
-데이터 분석가를 준비하고 있습니다.
+# 안녕하세요! 데이터 분석가를 준비하고 있는 `김정우` 입니다.
 
 <!--
 **kjw1023/kjw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
