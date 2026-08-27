@@ -16,7 +16,11 @@
 | 출생 | 1993.10.23 |
 
 ## 기술 스택
-
+- Python
+  - 전처리 : Pandas, Numpy
+  - 시각화 : Matplotlib, Seaborn
+  - 분석 : Scipy, Sklearn
+- MariaDB (SQL)
 ## 포트폴리오
 
 
