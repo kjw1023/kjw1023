@@ -16,11 +16,20 @@
 | 출생 | 1993.10.23 |
 
 ## 기술 스택
-- Python
-  - 전처리 : Pandas, Numpy
-  - 시각화 : Matplotlib, Seaborn
-  - 분석 : Scipy, Sklearn
-- MariaDB (SQL)
+### 데이터 분석 및 모델링
+|목적 / 활용 |	포함 기술 |
+| --- | --- |
+|통계 분석, 모델 개발 | Python (pandas, scikit-learn, statsmodels)|
+|데이터 질의 및 집계	| SQL (MariaDB)|
+|분석 환경	 | Jupyter Notebook, VScode | 
+
+
+### 시각화
+|목적 / 활용 |	포함 기술 |
+| --- | --- |
+|분석 결과 시각화 및 리포트 공유 | Python (matplotlib, seaborn) <br> PowerBI|
+
+
 ## 포트폴리오
 
 
