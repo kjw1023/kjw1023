@@ -34,7 +34,7 @@
 
 | 종류 (팀 / 개인) |	포트폴리오 명 | 바로가기 |
 | --- | --- | --- |
-| 개인 | California_housing | <a href="git@github.com:kjw1023/California_Housing.git"> <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge"> </a>| 
+| 개인 | California_housing | <a href="https://github.com/kjw1023/California_Housing.git"> <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge"> </a>| 
 
 
 <!--
