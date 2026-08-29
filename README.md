@@ -27,7 +27,7 @@
 ### 시각화
 |목적 / 활용 |	포함 기술 |
 | --- | --- |
-|분석 결과 시각화 및 리포트 공유 | Python (matplotlib, seaborn) <br> PowerBI|
+|분석 결과 시각화 및 리포트 공유 | - Python (matplotlib, seaborn) <br> - PowerBI|
 
 
 ## 포트폴리오
