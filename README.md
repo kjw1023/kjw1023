@@ -34,10 +34,14 @@
 
 | 종류 (팀 / 개인) |	포트폴리오 명 | 바로가기 |
 | --- | --- | --- |
-| 개인 | California_housing | #<a href="https://github.com/kjw1023/California_Housing.git"> <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge"> </a>| 
-| 팀 | Wholesale_customers | `추가예정` |
+| 개인 | California_housing | `추가 예정`| 
+| 팀 | Wholesale_customers | `추가 예정` |
 
 <!--
+
+<a href="https://github.com/kjw1023/California_Housing.git"> <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge"> </a>
+ㄴ 분석 링크
+
 **kjw1023/kjw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
