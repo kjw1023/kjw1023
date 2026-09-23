@@ -34,7 +34,11 @@
 
 | 종류 (팀 / 개인) |	포트폴리오 명 | 바로가기 |
 | --- | --- | --- |
-| 개인 | California_housing | `추가 예정`| 
+| 개인 | California_housing | `추가 예정`|
+| 개인 | Apple_quality | `추가 예정`|
+| 개인 | Medical cost personal | `추가 예정`|
+| 개인 | Diamonds_Price | `추가 예정`|
+| 개인 | - | `추가 예정`|
 | 팀 | Wholesale_customers | `추가 예정` |
 
 <!--
