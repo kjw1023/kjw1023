@@ -21,18 +21,11 @@
 
 
 ## 기술 스택
-### 데이터 분석 및 모델링
-|목적 / 활용 |	포함 기술 |
-| --- | --- |
-|통계 분석, 모델 개발 | Python (pandas, scikit-learn, statsmodels)|
-|데이터 질의 및 집계	| SQL (MariaDB)|
-|분석 환경	 | VScode, Anaconda | 
-
-
-### 시각화
-|목적 / 활용 |	포함 기술 |
-| --- | --- |
-|분석 결과 시각화 및 리포트 공유 | - Python (matplotlib, seaborn) <br> - PowerBI|
+### Stacks & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-round-square&logo=python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-round-square&logo=mariadb&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)
 
 
 ## 포트폴리오
@@ -50,6 +43,22 @@
 
 <a href="https://github.com/kjw1023/California_Housing.git"> <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge"> </a>
 ㄴ 분석 링크
+
+
+
+### 데이터 분석 및 모델링
+|목적 / 활용 |	포함 기술 |
+| --- | --- |
+|통계 분석, 모델 개발 | Python (pandas, scikit-learn, statsmodels)|
+|데이터 질의 및 집계	| SQL (MariaDB)|
+|분석 환경	 | VScode, Anaconda | 
+
+
+### 시각화
+|목적 / 활용 |	포함 기술 |
+| --- | --- |
+|분석 결과 시각화 및 리포트 공유 | - Python (matplotlib, seaborn) <br> - PowerBI|
+
 
 **kjw1023/kjw1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
