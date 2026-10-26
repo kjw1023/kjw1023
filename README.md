@@ -22,10 +22,19 @@
 
 ## 기술 스택
 ### Stacks & Tools
+
+**Data Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-round-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-round-square&logo=mariadb&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=round-square&logo=anaconda&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)
+
+**Collection & Automation**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 
 ## 포트폴리오
