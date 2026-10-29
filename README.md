@@ -80,7 +80,7 @@
 
 ## 🔗 Connect
 
-- GitHub: [GitHub 프로필](https://github.com/jw1023)
+- GitHub: [GitHub](https://github.com/kjw1023)
 - Email: rlawjddn1250@naver.com
 
 <!--
