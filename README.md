@@ -74,7 +74,7 @@
 - 주요 분석: 데이터 전처리, 이상치 처리, 회귀/앙상블 모델 비교, Feature Importance, SHAP 분석
 - 주요 결과: 최적 예측 모델 선정 및 주택 가격 결정 요인 해석
 
-🔗 [프로젝트 저장소](https://github.com/kjw1023/California_Housing.git)
+🔗 [프로젝트 바로가기](https://github.com/kjw1023/California_Housing.git)
 
 ---
 
