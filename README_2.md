@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-### 📈 Data Visualization & BI
+### 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -54,7 +54,7 @@
 - 주요 분석: K-means, 공간 자기상관 분석, 의료 접근성 분석
 - 주요 결과: 지역별 취약 유형 분류 및 개선 방안 제안
 
-🔗 [프로젝트 저장소](프로젝트_URL)
+🔗 [프로젝트 저장소](git@github.com:kjw1023/seoul-emergency-vulnerability.git)
 
 ### 02. 구매 패턴 기반 고객 분석
 **EDA · 군집 분석 · 분류 모델**
@@ -66,13 +66,13 @@
 
 🔗 [프로젝트 저장소](프로젝트_URL)
 
-### 03. 캘리포니아 주택 가격 예측
-**시계열 분석 · 코호트 분석 · RFM**
+### 03. 캘리포니아 주택가격 예측
+**회귀 분석 · 데이터 전처리 · 모델 해석**
 
-구매 이력을 바탕으로 고객의 구매 행동과 유지 특성을 분석하는 프로젝트입니다.
+캘리포니아 지역의 주택 가격을 예측하고, 지역 특성과 주택 속성의 영향을 분석한 프로젝트입니다.
 
-- 주요 분석: 시계열 분석, 코호트 분석, RFM
-- 주요 목표: 고객 구매 패턴 파악 및 고객 세분화
+- 주요 분석: 데이터 전처리, 이상치 처리, 회귀/앙상블 모델 비교, Feature Importance, SHAP 분석
+- 주요 결과: 최적 예측 모델 선정 및 주택 가격 결정 요인 해석
 
 🔗 [프로젝트 저장소](프로젝트_URL)
 
