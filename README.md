@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Kim%20JungWoo&fontSize=90)
+
 # 안녕하세요! 데이터 분석가를 준비하고 있는 [`김정우`] 입니다.
 
 ## 👋 About Me
