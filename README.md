@@ -12,7 +12,12 @@
 
 ---
 
+## 🌱 Growth Log
+### 성장하는 데이터 분석가가 되기 위해 기록한 개인 공부
+[데이터분석 사고 기르기](https://bnnch.notion.site/3c7fbf0c4b7e80379fc7e249a8b86e47?source=copy_link)
 
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
