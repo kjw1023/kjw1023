@@ -16,7 +16,7 @@
 ### 성장하는 데이터 분석가가 되기 위해 기록한 개인 공부
 ![Notion](https://img.shields.io/badge/notion-181717?style=flat-square&logo=notion&logoColor=white)
 [데이터분석 사고 기르기](https://bnnch.notion.site/3c7fbf0c4b7e80379fc7e249a8b86e47?source=copy_link)
-[데이터분석가 공부 노트]()
+[데이터분석가 정리 노트](https://bnnch.notion.site/a83fbf0c4b7e823b8356818760085ecc?source=copy_link)
 
 ---
 ## 🛠️ Tech Stack
