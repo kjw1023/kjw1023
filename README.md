@@ -92,6 +92,11 @@
 
 - GitHub: [GitHub](https://github.com/kjw1023)
 - Email: rlawjddn1250@naver.com
+- blog : [NAVER](https://blog.naver.com/rlawjddn1250)
+
+
+
+
 
 <!--
 ### 01. 캘리포니아 주택가격 예측
